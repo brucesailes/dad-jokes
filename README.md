@@ -20,6 +20,7 @@ I developed the Dad Jokes API specifically for this application. It's designed t
 - CSS
 - JavaScript
 - Custom API
+- Install NODEJS 
 
 ## Installation
 To experience Dad Joke Teller locally, follow these steps:
