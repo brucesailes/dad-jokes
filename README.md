@@ -14,7 +14,6 @@ I developed the Dad Jokes API specifically for this application. It's designed t
 
 - Custom-built API to fetch and display a variety of dad jokes.
 - Interactive button to request new jokes.
-- Laughter audio playback with each joke for an enhanced experience.
 - Responsive design for a great experience on various devices.
 
 ## Technologies Used
